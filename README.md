@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @sudoth
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on anything(?)
-- 📫 How to reach me: t.me/sudoth
+t.me/sudoth
 
 <!---
 sudoth/sudoth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
